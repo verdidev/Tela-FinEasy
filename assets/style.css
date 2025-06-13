@@ -1,0 +1,55 @@
+.navmanual {
+    background-color: rgb(231, 225, 217);
+    margin-bottom: 0;
+}
+
+.containernav {
+    display: flex;
+    align-items: center;
+}
+
+.containernav i {
+    font-size: 35px;
+    margin-right: 20px;
+}
+
+.containernav h1 {
+    font-family: "Roboto Mono", monospace;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    height: 125px;
+}
+
+.container h1 {
+    font-size: 100px;
+}
+
+.container-despesa {
+    background-color: aliceblue;
+    max-width: 100%;
+    font-size: 50px;
+}
+
+.input-group-lg .form-control {
+    background-color: #e9ecef;
+    font-size: 50px;
+    height: 70px;
+    font-weight: bold;
+    text-align: left;
+    /* alinhamento à direita */
+}
+
+.input-group-text {
+    font-size: 1.8rem;
+    height: 70px;
+    background-color: #e9ecef;
+    font-weight: bold;
+}
+
+form {
+    font-size: 25px;
+    color: white;
+}
